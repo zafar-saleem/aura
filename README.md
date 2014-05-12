@@ -3,7 +3,7 @@ CSS framework into 5 layers as Smacss suggests to split it into 5 but with one e
 rather than State(as in Smacss). Feel free to add 'State' layer as 6th layer or swap it with 'utilities'.
 <h1>Pre-requisites</h1>
 Flow requires Sass and compass to be installed on your machines in order to use it.
-<h1>How it works</h1>
+<h1>Flow structure</h1>
 Following are the description of each layer based on Smacss.
 <ul>
     <li>Base: This layer consists of base rules such as Normalizer.css</li>
