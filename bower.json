@@ -2,7 +2,7 @@
     "name": "Aura",
     "version": "0.0.1",
     "ignore": [
-        "example/"
+        "example/",
         ".gitignore",
         ".csslintrc",
         "bower.json",
