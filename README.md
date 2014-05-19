@@ -1,4 +1,4 @@
-Aura is a CSS framework that allows to write Modular & component base CSS(inspired from Smacss 'http://smacss.com/'). It splits CSS framework into 5 layers as Smacss suggests to split it into 5 but with one exception i.e. the 5th layer here is 'utilities' rather than State(as in Smacss). Feel free to add 'State' layer as 6th layer or swap it with 'utilities'.
+Aura is a CSS framework that allows to write Modular & component base CSS, inspired from Smacss (http://smacss.com/). It splits CSS framework into 5 layers as Smacss suggests to split it into 5 but with one exception i.e. the 5th layer here is 'utilities' rather than State(as in Smacss). Feel free to add 'State' layer as 6th layer or swap it with 'utilities'.
 <h1>Requirements</h1>
 Aura requires Sass and compass to be installed on your machines in order to use it.
 <h1>Aura structure</h1>
